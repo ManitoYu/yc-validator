@@ -1,0 +1,28 @@
+{
+  "name": "yc-validate",
+  "version": "1.0.0",
+  "description": "Composable, scalable, functional schema validator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validate",
+    "check",
+    "error",
+    "schema"
+  ],
+  "author": "Onionkings",
+  "license": "MIT",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManitoYu/yc-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ManitoYu/yc-validator/issues"
+  },
+  "homepage": "https://github.com/ManitoYu/yc-validator#readme"
+}
